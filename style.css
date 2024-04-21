@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  font-family: "gilroy";
+  padding: 0;
+  margin: 0;
+}
+html body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  padding: 15px 25px;
+  font-size: 20px;
+  margin: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
