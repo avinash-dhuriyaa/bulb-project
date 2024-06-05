@@ -1,5 +1,2 @@
 
-
-
-  
  # bulb-project
