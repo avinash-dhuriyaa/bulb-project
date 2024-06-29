@@ -8,7 +8,7 @@
    
     img.setAttribute("src","bulb_off.png");
     flag = 0
-  }   
+   }   
 
     } 
     
